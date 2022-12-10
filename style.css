@@ -1,0 +1,59 @@
+h1{
+    position: absolute;
+    width: 600px;
+    height:144px;
+    left: 202px;
+    top: 154px;
+    font-family:'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;line-height: 77px;
+    color:#FFFFFF;
+
+}
+label1{
+    position: absolute;
+    width: 112px; ;
+    height: 29px; ;
+    left: 202px; ;
+    top: 278px;
+    font-family:'Inter' ;
+    font-style:'normal' ;
+    font: weight 300 ;
+    font-size: 24px;
+    line-height: 29px; ;
+    color:#FFFFFF ;
+}
+label2{
+     position:absolute;width: 60px;height: 29px;left: 202px;top: 352px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF; 
+}
+label3{
+    position: absolute;width: 109px;height: 29px;left: 202px;top: 426px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF;
+}
+label4{
+   position:  absolute;width: 244px;height: 29px;left: 202px;top: 500px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color:#FFFFFF
+}
+label5{
+ position:absolute;width: 244px;height: 29px;left: 202px;top: 574px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF;
+}
+label6{
+ position:absolute;width: 244px;height: 29px;left: 229px;top: 650px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF;
+}
+label7{
+ position:absolute;width: 244px;height: 29px;left: 407px;top: 650px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF;
+}
+label8{
+position: absolute;width: 430px;height: 29px;left: 232px;top: 709px;font-family: 'Inter';font-style: normal;font-weight: 300;font-size: 24px;line-height: 29px;color: #FFFFFF;
+}
+input1{
+ box-sizing: border-box;position: absolute;width: 17px;height: 17px;left: 202px;top: 656px;border: 1px solid #FFFFFF;border-radius: 1000px;
+}
+input3{
+ box-sizing: border-box;position: absolute;width: 21px;height: 21px;left: 198px;top: 713px;border: 1px solid 
+}
+button{
+position:absolute;width: 226px;height: 58px;left: 198px;top: 808px;background: #FFFFFF
+}
+form{
+position:absolute;width:  1728px;height: 1117px;left: 0px;top: 0px;background: #000000
+}
